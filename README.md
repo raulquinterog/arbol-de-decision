@@ -3,7 +3,7 @@
 
 ## 📌 Descripción del Proyecto
 
-[Link al archivo .ipynb] (https://github.com/raulquinterog/arbol-de-decision/blob/887b9574ec42563fdd72b5430dee2f526dd5ba8d/A%CC%81rboles_de_Decision.ipynb)
+[Link al archivo .ipynb](https://github.com/raulquinterog/arbol-de-decision/blob/887b9574ec42563fdd72b5430dee2f526dd5ba8d/A%CC%81rboles_de_Decision.ipynb)
 
 Este proyecto analiza el famoso conjunto de datos Iris utilizando dos enfoques de clasificación:
 
